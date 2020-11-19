@@ -1,0 +1,16 @@
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\utils\BeanUtils.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\loader\DatabaseLoader.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\utils\StringUtils.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryPluginsManage.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryTable.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\package-info.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\Dictionary.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\database\DatabaseTable.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\database\DatabaseType.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\database\AbstractDbTable.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryAnalysis.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryInterceptor.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryEntity.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\QueryType.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryType.java
+E:\project\idea\git\plugins-spring\spring-dictionary\src\main\java\org\wit\ctw\plugin\dictionary\mybatis\interceptors\loader\DictionaryLoader.java

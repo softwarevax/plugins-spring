@@ -1,0 +1,15 @@
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryAnalysis.class
+org\wit\ctw\plugin\dictionary\utils\StringUtils.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\loader\DatabaseLoader.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\Dictionary.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryTable.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\database\AbstractDbTable.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryInterceptor.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\database\DatabaseTable.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\loader\DictionaryLoader.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryType.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryPluginsManage.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\DictionaryEntity.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\database\DatabaseType.class
+org\wit\ctw\plugin\dictionary\mybatis\interceptors\QueryType.class
+org\wit\ctw\plugin\dictionary\utils\BeanUtils.class
